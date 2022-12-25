@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sadjok
+- 👀 I’m interested in python & c++
+- 🌱 I’m currently learning C++
